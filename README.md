@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Davion, an EUC Engineer building toward Cloud AI Security Engineering 👋
 
-<!--
-**davionashman/davionashman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working across Microsoft Azure, AWS, Intune, Entra ID, and Azure Sentinel through hands-on labs.
 
-Here are some ideas to get you started:
+## What I'm currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+M365 Security Lab - Intune, Conditional Access, Defender for Endpoint.
+
+Azure Sentinel SIEM - detection rules, incident response, threat investigation.
+
+Powershell M365 Automation - Microsoft Graph API scripts for compliance and security auditing.
+
+AWS Secure Infrastructure - VPC, IAM, CloudTrail, GuardDuty.
+
+AI Security Operations Dashboard - an AI-assisted threat detection and investigation.
+
+## Certifications: AZ-900 | BCS Level 3 ICT | Nexthink Platform Administrator Professional | AWS DevOps | Google IT Support
+
+## Currently studying: AWS Solutions Architect Associate -> CompTIA Security+ -> SC-500 Cloud & AI Security Engineer
